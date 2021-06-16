@@ -21,4 +21,4 @@ Open each component in command line terminal and run `npm install` command
 Open each component in command line terminal and run `npm start` command
 
 ### Note
-This project uses babel however if you don't want to use it then change the way i have imported packages i.e. use `const express = require('express')` instead of `import express from 'express'.
+This project uses babel however if you don't want to use it then change the way i have imported packages i.e. use `const express = require('express')` instead of `import express from 'express'.`
