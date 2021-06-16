@@ -1,9 +1,9 @@
 ## App Overview
-App User Interface
+** App User Interface **
 
 ![UI](https://github.com/bhanu-code-repo/microservices-with-nodejs-and-react/blob/main/blog-app/document/blog-app-user-interface.jpg)
 
-App Block Diagram
+** App Block Diagram **
 
 ![UI](https://github.com/bhanu-code-repo/microservices-with-nodejs-and-react/blob/main/blog-app/document/blog-app-architecture.jpg)
 
