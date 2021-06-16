@@ -9,15 +9,16 @@ A simple blog application developed with microservices approach. You can add pos
 
 ![UI](https://github.com/bhanu-code-repo/microservices-with-nodejs-and-react/blob/main/blog-app/document/blog-app-architecture.jpg)
 
-## Tech Stack
+### Tech Stack
 * Front-end : React
 * Back-end: Node & Express
 * Data store: In-Memory
 
-## Configure components
+### Configure components
 Open each component in command line terminal and run `npm install` command
 
-## Run components
+### Run components
 Open each component in command line terminal and run `npm start` command
 
-*Note: This project uses babel however if you don't want to use it then change the way i have imported packages i.e. use `const express = require('express')` instead of `import express from 'express'.
+### Note
+This project uses babel however if you don't want to use it then change the way i have imported packages i.e. use `const express = require('express')` instead of `import express from 'express'.
