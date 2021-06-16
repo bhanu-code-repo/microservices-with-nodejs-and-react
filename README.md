@@ -3,7 +3,7 @@ Microservices Respository
 
 ## App Overview
 App User Interface
-[UI](./document/blog-app-user-interface.jpg)
+[UI](https://github.com/bhanu-code-repo/microservices-with-nodejs-and-react/blob/main/blog-app/document/blog-app-user-interface.jpg)
 
 ## Tech Stack
 * Front-end : React
