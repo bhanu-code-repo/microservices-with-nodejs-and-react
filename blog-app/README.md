@@ -1,5 +1,5 @@
 # App Overview
-A simple blog application developed with microservices approach. You can add posts and comments to posts. Application will moderate the comments i.e. if you add `kill` word in comment then your comment will be rejected. Application will show comment status `awaiting moderation` if moderation service is down and when the moderation service is up if will process the pending comments.
+A simple blog application developed with microservices approach. You can add posts and comments to posts. Application will moderate the comments i.e. if you add `kill` word in comment then your comment will be rejected. Application will show comment status `awaiting moderation` if moderation service is down and when the moderation service is up it will process the pending comments.
 
 ### App User Interface
 
