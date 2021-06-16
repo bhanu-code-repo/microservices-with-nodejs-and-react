@@ -3,11 +3,11 @@ Microservices Respository
 
 ## App Overview
 App User Interface
-[UI](/document/blog-app-user-interface.jpg)
+[UI](./document/blog-app-user-interface.jpg)
 
 ## Tech Stack
 * Front-end : React
-* Back-end: Node & Expess
+* Back-end: Node & Express
 * Data store: In-Memory
 
 ## Configure components
